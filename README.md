@@ -2,6 +2,9 @@
 
 **Software Engineer @ Sweep Digital Inc. | M.S. Computer Science @ CSUF**
 
+## About Me
+I’m an M.S. CS graduate and software engineer who loves building products from the ground up. I thrive in fast-paced environments, bridging the gap between complex engineering and real-world business needs. As a natural builder and collaborator, I enjoy talking to customers just as much as writing code, whether I'm at a high-growth startup or a large tech company.
+
 ## Quick Facts
 - **Education:** M.S. in Computer Science at California State University, Fullerton (GPA: 3.87/4.0).
 - **Experience:** Software Engineer at Sweep Digital Inc., building full-stack analytics platform and RAG system with React Native, Supabase, and GPT-5.
