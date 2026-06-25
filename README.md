@@ -16,7 +16,7 @@ I’m an M.S. CS graduate and software engineer who loves building products from
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | **[Tech Trend Tracker](https://techtrendtracker.xyz)** | Distributed data pipeline processing 10,000+ job descriptions to visualize real-time tech skill demands using local Gemma 4 inference. | Python, Go, React, RabbitMQ, Docker, Ollama, Gemma4, PostGreSQL |
-| **[GPU-Accelerated ARBAC](https://github.com/Tin-Ko/GPU-accelerated-RBAC-policy-analysis)** | Researched and implemented GPU-optimized algorithms for policy analysis, achieving a 1400x speedup via parallel CUDA kernels. | C/C++, CUDA |
+| **GPU-Accelerated ARBAC** | Researched and implemented GPU-optimized algorithms for policy analysis, achieving a 1400x speedup via parallel CUDA kernels. | C/C++, CUDA |
 | **[CompanyWizard](https://github.com/Tin-Ko/CompanyWizard)** | AI-powered enterprise platform that combines intelligent document retrieval (RAG) with ERP integrations to serve both employees and headquarters. | React, TypeScript, Tailwind, Python, FastAPI, FastMCP, Vector DB (Pinecone), SQLite, pytest|
 
 ## Technical Skills
